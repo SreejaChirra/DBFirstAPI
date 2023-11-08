@@ -10,7 +10,7 @@ namespace DBFirstAPI.Models
         public string Name { get; set; } = null!;
         public int? Age { get; set; }
         public string? Email { get; set; }      
-        public int? Birthday { get; set; }
+        
 
        
     }
